@@ -1,0 +1,20 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
+{\fonttbl\f0\froman\fcharset0 Times-Roman;\f1\froman\fcharset0 TimesNewRomanPSMT;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\tx2224\pardeftab720\ri380\sa240\qc
+
+\f0\b\fs30 \cf0 Parliamentarism and Political Stability
+\b0\fs24 \
+\pard\pardeftab720\ri380\sa240\qj
+
+\fs26 \cf0 This analysis of presidentialism's unpromising implications for democracy is not meant to imply that no presidential democracy can be stable; on the contrary, the world's most stable democracy-the United States of America-has a presidential constitution. Nevertheless, one cannot help tentatively concluding that in many other societies the odds that presidentialism will help preserve democracy are far less favorable. 
+\fs24 \
+
+\fs26 While it is true that parliamentarism provides a more flexible and adaptable institutional context for the establishment and consolidation of democracy, it does not follow that just any sort of parliamentary regime will do. Indeed, to complete the analysis one would need to reflect upon the best type of parliamentary constitution and its specific institutional features. Among these would be a prime-ministerial office combining power with responsibility, which would in turn require strong, well- disciplined political parties. Such features-there are of course many others we lack the space to discuss-would help foster responsible decision making and stable governments and would encourage genuine 
+\fs24 \
+\pard\pardeftab720\ri380
+
+\f1 \cf0 \
+}
